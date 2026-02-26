@@ -1,6 +1,6 @@
 // WeatherAPI.com key
-const apiKey = "751860ee61224ba18a1143611262602";
-
+const apiKey = ""
+// I will provide key when needed...api key goes in there
 // DOM Elements
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
